@@ -34,7 +34,6 @@ const seed = async () => {
     console.error(' Seed error:', err);
     process.exit(1);
 
-    
   }
 };
 
