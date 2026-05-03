@@ -1,0 +1,5 @@
+# Commands for project
+
+# 1. Backend: npm start  
+# 2. Frontend: npm run dev
+# 3. mongodb: npm run seed
